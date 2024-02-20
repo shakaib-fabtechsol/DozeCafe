@@ -1,0 +1,21 @@
+.bg-image {
+    background-image: url(images/banner-bg.png);
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    width: 100%;
+}
+.bg-image1 {
+    background-image: url(images/client-bg.png);
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    width: 100%;
+}
+.bg-footer {
+    background-image: url(images/footer-bg.png);
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    width: 100%;
+}
